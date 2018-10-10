@@ -1,2 +1,1 @@
-# Behn.cx
-Bęhn.cx
+# Bęhn.cx
